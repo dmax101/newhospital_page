@@ -9659,6 +9659,7 @@ html, body {
   height: 100%;
   min-height: 100%;
   background-size: cover;
+  background-color: #01031c;
 }
 
 #main {
@@ -9678,6 +9679,18 @@ html, body {
   height: 150px;
   flex: auto;
   flex-direction: column;
+}
+
+.delay-1 {
+  animation-delay: 200ms;
+}
+
+.delay-2 {
+  animation-delay: 1000ms;
+}
+
+.delay-3 {
+  animation-delay: 1600ms;
 }
 
 /*# sourceMappingURL=style.css.map */
