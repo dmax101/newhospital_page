@@ -9662,7 +9662,7 @@ html, body {
 }
 
 #main {
-  background-image: url("../../assets/bkgnd.jpg");
+  background-image: url("./assets/bkgnd.jpg");
   background-size: cover;
   min-height: 100%;
   color: white;
@@ -9671,7 +9671,7 @@ html, body {
 }
 
 #logo {
-  background-image: url("../../assets/logo.svg");
+  background-image: url("./assets/logo.svg");
   background-repeat: no-repeat;
   background-size: auto;
   width: 320px;
