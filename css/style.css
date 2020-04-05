@@ -9693,4 +9693,10 @@ html, body {
   animation-delay: 1600ms;
 }
 
+.botoes {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
 /*# sourceMappingURL=style.css.map */
