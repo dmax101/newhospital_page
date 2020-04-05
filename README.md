@@ -1,2 +1,0 @@
-# newhospital
- Página da NewHospital
